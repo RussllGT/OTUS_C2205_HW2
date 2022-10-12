@@ -1,0 +1,22 @@
+﻿  cp1251_unicode.c
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\cp1251_unicode.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\cp1251_unicode.c(81,26): warning C4090: return: разные квалификаторы "const"
+  decode.c
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\decode.c(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\decode.c(16,1): warning C4133: инициализация: несовместимые типы - из "uint16_t *" в "uint8_t *"
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\decode.c(47,1): warning C4133: инициализация: несовместимые типы - из "uint16_t *" в "uint8_t *"
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\decode.c(102,17): warning C4090: =: разные квалификаторы "const"
+  iso88595_unicode.c
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\iso88595_unicode.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\iso88595_unicode.c(81,28): warning C4090: return: разные квалификаторы "const"
+  koi8_unicode.c
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\koi8_unicode.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\koi8_unicode.c(81,24): warning C4090: return: разные квалификаторы "const"
+  main.c
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\cp1251_unicode.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\koi8_unicode.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\iso88595_unicode.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\main.c(46,34): warning C4013: strerror: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\main.c(46,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+  Создание кода...
+  02_Lesson_4.vcxproj -> D:\Programming\C\_Homeworks_Otus_2205\Solutions\02_Lesson_4\x64\Debug\02_Lesson_4.exe
